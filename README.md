@@ -25,6 +25,8 @@ Postman collection testing the Restful-Booker practice API
 9. Wrong password (negative)
 10. Update booking - no token (negative)
 
+   ## Test run results
+   All 15 assertions across the 10 requests pass (0 failed) when the collection is run in Postman.
 ![Run results 1](run-results-1.png)
 ![Run results 2](run-results-2.png)
 ![Run results 3](run-results-3.png)
