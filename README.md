@@ -25,5 +25,8 @@ Postman collection testing the Restful-Booker practice API
 9. Wrong password (negative)
 10. Update booking - no token (negative)
 
+![Run results 1](run-results-1.png)
+![Run results 2](run-results-2.png)
+![Run results 3](run-results-3.png)
 ## Notes
 Token and booking ID are saved automatically by test scripts at run time.
